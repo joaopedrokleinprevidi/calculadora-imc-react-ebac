@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.body {
+  background-color: rgb(95, 251, 95);
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+}
+
+main {
+  
+  flex-direction: column;
+}
+
+form {
+  margin: 1rem;
+  flex-direction: column;
+}
+
+div {
+  flex-direction: column;
+}
+
+button {
+  margin-top: 1rem;
+}
